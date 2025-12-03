@@ -14,3 +14,4 @@ node index.js
 
 Adding documentation for adding
 
+to add you pass in a and b. The return value is a + b
